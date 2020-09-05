@@ -5,4 +5,4 @@
 
 
   * 4624
-    * Logon Type 10 and 7" 
+    * Logon Type 10 and 7
