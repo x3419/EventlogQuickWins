@@ -5,4 +5,4 @@
 
 
   * 4624
-    * Logon Type 10 7"# EventlogQuickWins" 
+    * Logon Type 10 and 7" 
