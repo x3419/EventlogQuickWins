@@ -1,5 +1,5 @@
 ## Eventlog QuickWins
-### This tool parses eventlogs to identify QuickWins during incident response scenarios.
+### This tool parses eventlogs to identify quick wins during incident response scenarios.
 ### Outputs to C:\CS\
 
 HOSTNAME_EventlogRDP.txt
