@@ -20,3 +20,4 @@ HOSTNAME_EventlogPowershell.txt
 ### TODO:
 
   * Output as CSV
+  * Sort by timeGenerated
