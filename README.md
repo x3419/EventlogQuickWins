@@ -20,4 +20,3 @@ HOSTNAME_EventlogPowershell.txt
 ### TODO:
 
   * Output as CSV
-  * 
