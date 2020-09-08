@@ -6,7 +6,7 @@ HOSTNAME_EventlogRDP.txt
   * Security 4624
     * Logon Type 10 and 7
     * Only outputs the fields "Logon Type", "Workstation Name", "Source Network Address", "Network Account Name", "Account Name", "Account Domain" 
-      * Omits when they are empty
+      * Omitted when they are empty
   * Microsoft-Windows-TerminalServices-LocalSessionManager/Operational
     * EventID 21, 23, 24
 
